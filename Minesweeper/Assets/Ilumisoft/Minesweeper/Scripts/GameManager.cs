@@ -133,6 +133,7 @@ namespace Ilumisoft.Minesweeper
         void GameOver(bool won)
         {
             StopAllCoroutines();
+            FindObjectOfType<AudioManager>().Play("Square Open Three");
             StartCoroutine(GameOverCoroutine(won));
         }
 
@@ -141,6 +142,9 @@ namespace Ilumisoft.Minesweeper
             GameObject uiElement = won ? levelCompleteUI : gameOverUI;
 
             yield return new WaitForSecondsRealtime(1.0f);
+            
+            if(won == false)
+            FindObjectOfType<AudioManager>().Play("Explosion");
 
             uiElement.SetActive(true);
         }

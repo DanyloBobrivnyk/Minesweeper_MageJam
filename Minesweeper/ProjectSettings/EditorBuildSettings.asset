@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Ilumisoft/Minesweeper/Scenes/Game Medium.unity
     guid: ed095859b7331b3489110e291a056678
+  - enabled: 1
+    path: Assets/Ilumisoft/Minesweeper/Scenes/Game Mission.unity
+    guid: e8b2c934893db4348aa79d1b29758d03
   m_configObjects: {}

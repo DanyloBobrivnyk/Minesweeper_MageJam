@@ -11,6 +11,7 @@ namespace Ilumisoft.Minesweeper
 
         public virtual void Reveal()
         {
+            FindObjectOfType<AudioManager>().Play("Square Open One");
             State = TileState.Revealed;
             OnStateChanged?.Invoke(State);
         }
@@ -28,6 +29,7 @@ namespace Ilumisoft.Minesweeper
 
         public void SwitchFlag()
         {
+            FindObjectOfType<AudioManager>().Play("Square Open Two");
             if (State != TileState.Revealed)
             {
                 if (State == TileState.Flagged)

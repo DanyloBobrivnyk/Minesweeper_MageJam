@@ -4,6 +4,7 @@
     {
         Hidden,
         Flagged,
-        Revealed
+        Revealed,
+        Blocked
     }
 }
