@@ -1,578 +1,323 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 18363.1256; Version 1909; 64bit' Language: 'en' Physical Memory: 12169 MB
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'ru' Physical Memory: 8111 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\UnityVersionsFolder\2020.2.3f1\Editor\Unity.exe
+D:\Unity\2020.2.3f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Smth_else/GitReposGumes/Minesweeper_MageJam/Minesweeper
+D:/Unity Projects/saper/Minesweeper_MageJam/Minesweeper
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51776
-Successfully changed project path to: D:/Smth_else/GitReposGumes/Minesweeper_MageJam/Minesweeper
-D:/Smth_else/GitReposGumes/Minesweeper_MageJam/Minesweeper
+59822
+Successfully changed project path to: D:/Unity Projects/saper/Minesweeper_MageJam/Minesweeper
+D:/Unity Projects/saper/Minesweeper_MageJam/Minesweeper
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 109.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 31.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
-[Subsystems] Discovering subsystems at path D:/UnityVersionsFolder/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Smth_else/GitReposGumes/Minesweeper_MageJam/Minesweeper/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/saper/Minesweeper_MageJam/Minesweeper/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   
-    VRAM:     6084 MB
-    Driver:   27.20.100.8681
+    VRAM:     3962 MB
+    Driver:   27.21.14.6172
 Initialize mono
-Mono path[0] = 'D:/UnityVersionsFolder/2020.2.3f1/Editor/Data/Managed'
-Mono path[1] = 'D:/UnityVersionsFolder/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/UnityVersionsFolder/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Mono path[0] = 'D:/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/UnityVersionsFolder/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001537 seconds.
+Register platform support module: D:/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000947 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 73.22 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 30.61 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.344 seconds
+- Completed reload, in  0.817 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001017 seconds.
+Registered in 0.000743 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 91.23 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 31.42 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.140 seconds
+- Completed reload, in  0.789 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1790 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.1 MB.
-System memory in use after: 84.2 MB.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2236.
-Total: 9.508800 ms (FindLiveObjects: 0.445500 ms CreateObjectMapping: 0.574800 ms MarkObjects: 8.245600 ms  DeleteObjects: 0.239900 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2241.
+Total: 1.733600 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.066300 ms MarkObjects: 1.424200 ms  DeleteObjects: 0.065900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Ilumisoft/Minesweeper/Audio/square open 2.wav
-  artifactKey: Guid(620874cc343087b46832292f42a1e69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/square open 2.wav using Guid(620874cc343087b46832292f42a1e69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf2e03f5b916f0e803744caef87ff19') in 0.675996 seconds
-  Import took 0.688339 seconds .
+  path: Assets/Animation
+  artifactKey: Guid(85e11131eb2fadc4da4b64e5efaa9f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(85e11131eb2fadc4da4b64e5efaa9f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbee79e000cb9bc6ee08517370547b60') in 0.007115 seconds
+  Import took 0.009804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.703001 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48605d8e8a733cdd63c776675d6be9dc') in 0.146255 seconds
+  Import took 0.149059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.734407 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db72112ac36835eeebccc4cbde671f3e') in 0.010983 seconds
+  Import took 0.014271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.814499 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834e0254f0d0944bc7a0f0cdea454b76') in 0.014220 seconds
+  Import took 0.016977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.950987 seconds.
+  path: Assets/drop_podFLIGHT.png
+  artifactKey: Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podFLIGHT.png using Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '792f48ccb6401176ba95aa0a299f084b') in 0.023310 seconds
+  Import took 0.025885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.834118 seconds.
+  path: Assets/drop_podFLIGHT.png
+  artifactKey: Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podFLIGHT.png using Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1dd7a82f67591cf72114a4d4029b42') in 0.011165 seconds
+  Import took 0.015080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524740 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdf4cb6beb2c1cf8b99cd4a55c544bf') in 0.014740 seconds
+  Import took 0.017797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.442391 seconds.
+  path: Assets/drop_podCONTACT.png
+  artifactKey: Guid(bc4f8d013fddd5b45b46dbf8eb768898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podCONTACT.png using Guid(bc4f8d013fddd5b45b46dbf8eb768898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26908c4069fad5549ce70cd761b486b') in 0.015615 seconds
+  Import took 0.018394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.886833 seconds.
+  path: Assets/soldier_down-Sheet.png
+  artifactKey: Guid(b82ad0506e1f16143841e0098c1dbf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_down-Sheet.png using Guid(b82ad0506e1f16143841e0098c1dbf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9529ae1a1bb858905733612a78ed0c') in 0.017112 seconds
+  Import took 0.020025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.657295 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/Tile/Bomb Icon.png
+  artifactKey: Guid(a515784ca9e6ffc4a922fbad4cf6811a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/Tile/Bomb Icon.png using Guid(a515784ca9e6ffc4a922fbad4cf6811a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9894ae0bb919d3e164b58106097aa9b') in 0.020798 seconds
+  Import took 0.024130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/UI/Button.png
+  artifactKey: Guid(de3461df4b8487b45889cf4c7ec8ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/UI/Button.png using Guid(de3461df4b8487b45889cf4c7ec8ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20eb8731cc470d70d60550f1c43692c2') in 0.030041 seconds
+  Import took 0.033070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/UI/Circle.png
+  artifactKey: Guid(61f64d5d34b4a2140836c864abf90eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/UI/Circle.png using Guid(61f64d5d34b4a2140836c864abf90eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5f64040db9234cf628c52b3e4793c4') in 0.026265 seconds
+  Import took 0.029265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/UI/Button.png
+  artifactKey: Guid(de3461df4b8487b45889cf4c7ec8ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/UI/Button.png using Guid(de3461df4b8487b45889cf4c7ec8ae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20eb8731cc470d70d60550f1c43692c2') in 0.009266 seconds
+  Import took 0.012636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/UI/Circle.png
+  artifactKey: Guid(61f64d5d34b4a2140836c864abf90eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/UI/Circle.png using Guid(61f64d5d34b4a2140836c864abf90eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5f64040db9234cf628c52b3e4793c4') in 0.011041 seconds
+  Import took 0.014164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/Tile/Flag Icon.png
+  artifactKey: Guid(63491fd68e33e3045bdb9ac76729de5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/Tile/Flag Icon.png using Guid(63491fd68e33e3045bdb9ac76729de5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3005b9ac3b9f8c2f5a87d21b0d964f9e') in 0.021285 seconds
+  Import took 0.024046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/Tile/Bomb Icon.png
+  artifactKey: Guid(a515784ca9e6ffc4a922fbad4cf6811a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/Tile/Bomb Icon.png using Guid(a515784ca9e6ffc4a922fbad4cf6811a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9894ae0bb919d3e164b58106097aa9b') in 0.008699 seconds
+  Import took 0.011339 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000311 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Audio/square open.wav
-  artifactKey: Guid(890a6607a7f94f347abcd45077a5070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/square open.wav using Guid(890a6607a7f94f347abcd45077a5070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367e1433426bf655f43203037326d268') in 0.026047 seconds
-  Import took 0.033876 seconds .
+  path: Assets/Ilumisoft/Minesweeper/Textures/UI/Close-Icon.png
+  artifactKey: Guid(593cfe168243fd643b2d0a27e78f3204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/UI/Close-Icon.png using Guid(593cfe168243fd643b2d0a27e78f3204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc666dbcc5e91b5604268cb6c263271') in 0.016472 seconds
+  Import took 0.019123 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.236084 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Audio/switch off.wav
-  artifactKey: Guid(7d8cfa65b2b7b2144a75f19068d68467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/switch off.wav using Guid(7d8cfa65b2b7b2144a75f19068d68467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b319faa245adbc5358711a0fa0bdb9f3') in 0.029749 seconds
-  Import took 0.035108 seconds .
+  Time since last request: 0.000268 seconds.
+  path: Assets/Ilumisoft/Minesweeper/Textures/Tile/Tile Background.png
+  artifactKey: Guid(fcbe405dc01f769448d2c55a95356ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft/Minesweeper/Textures/Tile/Tile Background.png using Guid(fcbe405dc01f769448d2c55a95356ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdacc11c482bd4dd532ff24b8d1d9fc') in 0.025783 seconds
+  Import took 0.028487 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001082 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Audio/switch off.wav
-  artifactKey: Guid(7d8cfa65b2b7b2144a75f19068d68467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/switch off.wav using Guid(7d8cfa65b2b7b2144a75f19068d68467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b319faa245adbc5358711a0fa0bdb9f3') in 0.016117 seconds
-  Import took 0.022377 seconds .
+  Time since last request: 88.274197 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce13437741312adde3f80b27ab00fb8b') in 0.022420 seconds
+  Import took 0.025602 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.906001 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Audio/parachute.wav
-  artifactKey: Guid(b7ad046309e7dba4aa64d0ae6fac844b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/parachute.wav using Guid(b7ad046309e7dba4aa64d0ae6fac844b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077cf988ea24c734f3f903cc199e5f30') in 0.035708 seconds
-  Import took 0.042710 seconds .
+  Time since last request: 118.771150 seconds.
+  path: Assets/drop_podCONTACT.png
+  artifactKey: Guid(bc4f8d013fddd5b45b46dbf8eb768898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podCONTACT.png using Guid(bc4f8d013fddd5b45b46dbf8eb768898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc9d4bc5c619c1e4a25388b87d8427d') in 0.053162 seconds
+  Import took 0.057696 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.743560 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Audio/explosion.wav
-  artifactKey: Guid(801c0daf7f786b44aae69305ba673b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Audio/explosion.wav using Guid(801c0daf7f786b44aae69305ba673b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f3c030aa544d1b0bdae891135180a7') in 0.029404 seconds
-  Import took 0.035747 seconds .
+  Time since last request: 44.440572 seconds.
+  path: Assets/drop_podFLIGHT.png
+  artifactKey: Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podFLIGHT.png using Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977bc01438e8a137ac2691f36b434fe5') in 0.030631 seconds
+  Import took 0.035037 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 98.072587 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scenes/Menu.unity
-  artifactKey: Guid(8a729fa0539419c419aed93c85ea7d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scenes/Menu.unity using Guid(8a729fa0539419c419aed93c85ea7d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506ce61514a27ef52c1175b29b074041') in 0.013078 seconds
-  Import took 0.017968 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001245 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.407 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2248.
-Total: 3.522800 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.113100 ms MarkObjects: 3.099400 ms  DeleteObjects: 0.024100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001062 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.380 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2251.
-Total: 4.116600 ms (FindLiveObjects: 0.282600 ms CreateObjectMapping: 0.098600 ms MarkObjects: 3.692200 ms  DeleteObjects: 0.041200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001012 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.583 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2254.
-Total: 2.543900 ms (FindLiveObjects: 0.186400 ms CreateObjectMapping: 0.072700 ms MarkObjects: 2.254600 ms  DeleteObjects: 0.028400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001025 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.448 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2257.
-Total: 3.216400 ms (FindLiveObjects: 0.233500 ms CreateObjectMapping: 0.107000 ms MarkObjects: 2.841500 ms  DeleteObjects: 0.032300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002351 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.245 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2260.
-Total: 2.580300 ms (FindLiveObjects: 0.351600 ms CreateObjectMapping: 0.154700 ms MarkObjects: 2.046300 ms  DeleteObjects: 0.025700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001531 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.179 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 2.563700 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.075800 ms MarkObjects: 2.246800 ms  DeleteObjects: 0.024700 ms)
+  Time since last request: 13.096352 seconds.
+  path: Assets/soldier_down-Sheet.png
+  artifactKey: Guid(b82ad0506e1f16143841e0098c1dbf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_down-Sheet.png using Guid(b82ad0506e1f16143841e0098c1dbf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7fdf62df22c046bd5d1d1a8a33205b') in 0.034583 seconds
+  Import took 0.038553 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 503.665982 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Prefabs/Menu.prefab
-  artifactKey: Guid(ac8177f9e02e37e4c8a706115cecdbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Prefabs/Menu.prefab using Guid(ac8177f9e02e37e4c8a706115cecdbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa708b247ac76f62074329f73a75a36') in 0.123920 seconds
-  Import took 0.131196 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001410 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.175 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2266.
-Total: 2.555200 ms (FindLiveObjects: 0.215700 ms CreateObjectMapping: 0.077500 ms MarkObjects: 2.236700 ms  DeleteObjects: 0.023400 ms)
+  Time since last request: 7.556921 seconds.
+  path: Assets/soldier_run.png
+  artifactKey: Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_run.png using Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50bd0d3f76696fb0e693c9277f4d6c5a') in 0.016751 seconds
+  Import took 0.020481 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 136.668728 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts
-  artifactKey: Guid(c0155e0f8c4acbe4ea2ca2d4c1a42d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts using Guid(c0155e0f8c4acbe4ea2ca2d4c1a42d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3278d400af337e780624e4403b02b3') in 0.015984 seconds
-  Import took 0.020818 seconds .
+  Time since last request: 5.505007 seconds.
+  path: Assets/soldier_run.png
+  artifactKey: Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_run.png using Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2dc8b5aa114e298e9de6261d6cddc55') in 0.031580 seconds
+  Import took 0.035771 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.389470 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts/Audio
-  artifactKey: Guid(e57b73177045bd641b8c638341f3c210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts/Audio using Guid(e57b73177045bd641b8c638341f3c210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5a5f816be7e00a777ef86bc40fb197') in 0.012562 seconds
-  Import took 0.018971 seconds .
+  Time since last request: 2.785916 seconds.
+  path: Assets/soldierDEath.png
+  artifactKey: Guid(26edd9996f4e26540ab1f9c87d32ab8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldierDEath.png using Guid(26edd9996f4e26540ab1f9c87d32ab8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5131cd0a4e2a86d15475b5f35573c11a') in 0.017193 seconds
+  Import took 0.020863 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.343825 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts/Audio/AudioManager.cs
-  artifactKey: Guid(d12e7b7f8a3ad5b43924b1174dcd9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts/Audio/AudioManager.cs using Guid(d12e7b7f8a3ad5b43924b1174dcd9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5eb5ae093882a667899c66ed7e0acf2') in 0.038398 seconds
-  Import took 0.050481 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003157 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.067 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1781 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2270.
-Total: 3.894200 ms (FindLiveObjects: 0.343100 ms CreateObjectMapping: 0.145100 ms MarkObjects: 3.377600 ms  DeleteObjects: 0.026200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001070 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.549 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1781 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2273.
-Total: 2.745800 ms (FindLiveObjects: 0.192100 ms CreateObjectMapping: 0.075200 ms MarkObjects: 2.451000 ms  DeleteObjects: 0.025700 ms)
+  Time since last request: 7.566275 seconds.
+  path: Assets/soldierDEath.png
+  artifactKey: Guid(26edd9996f4e26540ab1f9c87d32ab8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldierDEath.png using Guid(26edd9996f4e26540ab1f9c87d32ab8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6050ad30a587edc3dfdf214afe393359') in 0.035918 seconds
+  Import took 0.039783 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 89.687504 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts/Audio/AudioManager.cs
-  artifactKey: Guid(d12e7b7f8a3ad5b43924b1174dcd9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts/Audio/AudioManager.cs using Guid(d12e7b7f8a3ad5b43924b1174dcd9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5f686515f51d563e86dfcaa3486280') in 0.008536 seconds
-  Import took 0.014756 seconds .
+  Time since last request: 93.100773 seconds.
+  path: Assets/boom_shhet.png
+  artifactKey: Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/boom_shhet.png using Guid(8c8069d489b587c4da510066db4b4726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60785c96d7430b7f3d5c943cc18facf5') in 0.042647 seconds
+  Import took 0.047056 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.992850 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts/Audio/Sound.cs
-  artifactKey: Guid(1518a6bde34425740b12388443336b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts/Audio/Sound.cs using Guid(1518a6bde34425740b12388443336b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7953aa9f36d2a9ac8620dd1e2655fa7d') in 0.018855 seconds
-  Import took 0.028926 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001021 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.495 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2277.
-Total: 2.630000 ms (FindLiveObjects: 0.216500 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.312900 ms  DeleteObjects: 0.024500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001638 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.391 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2280.
-Total: 3.561700 ms (FindLiveObjects: 0.228300 ms CreateObjectMapping: 0.098500 ms MarkObjects: 3.210300 ms  DeleteObjects: 0.022800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001537 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.429 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2283.
-Total: 2.358900 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.104600 ms MarkObjects: 2.005200 ms  DeleteObjects: 0.022200 ms)
+  Time since last request: 143.638742 seconds.
+  path: Assets/soldier_run.png
+  artifactKey: Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_run.png using Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adda10e97837d49db233d206198803a') in 0.020806 seconds
+  Import took 0.024309 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 128.682703 seconds.
-  path: Assets/Ilumisoft/Minesweeper/Scripts/Audio/Sound.cs
-  artifactKey: Guid(1518a6bde34425740b12388443336b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ilumisoft/Minesweeper/Scripts/Audio/Sound.cs using Guid(1518a6bde34425740b12388443336b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ddbbfeaf6178b4b561aa23f06310913') in 0.014330 seconds
-  Import took 0.024592 seconds .
+  Time since last request: 6.591875 seconds.
+  path: Assets/soldier_run.png
+  artifactKey: Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soldier_run.png using Guid(84efbe0b2ef5f6342a34e9552efd23e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d120bcff13472b090d90a5f2f77e2d') in 0.024447 seconds
+  Import took 0.027607 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001642 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.532 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2286.
-Total: 6.149900 ms (FindLiveObjects: 0.652900 ms CreateObjectMapping: 0.273500 ms MarkObjects: 5.162900 ms  DeleteObjects: 0.057100 ms)
+Received Import Request.
+  Time since last request: 18.726727 seconds.
+  path: Assets/drop_podFLIGHT.png
+  artifactKey: Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/drop_podFLIGHT.png using Guid(8b906da75ec5abd4c882eef17451ea9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a28a7ed5730ed94c2c6ad5c1e878387') in 0.019118 seconds
+  Import took 0.022049 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001138 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.548 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2289.
-Total: 3.223000 ms (FindLiveObjects: 0.274800 ms CreateObjectMapping: 0.102700 ms MarkObjects: 2.819800 ms  DeleteObjects: 0.023800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001418 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.588 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2292.
-Total: 3.907400 ms (FindLiveObjects: 0.253200 ms CreateObjectMapping: 0.084000 ms MarkObjects: 3.541800 ms  DeleteObjects: 0.026000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001019 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.332 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2295.
-Total: 4.779700 ms (FindLiveObjects: 0.466400 ms CreateObjectMapping: 0.258800 ms MarkObjects: 4.003900 ms  DeleteObjects: 0.047400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001096 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.741 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2298.
-Total: 2.543500 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.092400 ms MarkObjects: 2.225400 ms  DeleteObjects: 0.025700 ms)
+Received Import Request.
+  Time since last request: 6.959180 seconds.
+  path: Assets/Ilumisoft
+  artifactKey: Guid(59b837ffae5263c4d98abe017f4ff6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ilumisoft using Guid(59b837ffae5263c4d98abe017f4ff6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7532479d3460b2b217b674d566830ed2') in 0.005697 seconds
+  Import took 0.008359 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
