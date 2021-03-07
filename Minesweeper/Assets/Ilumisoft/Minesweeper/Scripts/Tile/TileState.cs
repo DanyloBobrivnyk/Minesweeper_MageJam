@@ -5,6 +5,6 @@
         Hidden,
         Flagged,
         Revealed,
-        Blocked
+        Locked
     }
 }

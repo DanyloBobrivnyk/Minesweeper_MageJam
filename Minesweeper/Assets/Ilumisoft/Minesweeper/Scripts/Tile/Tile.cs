@@ -27,6 +27,31 @@ namespace Ilumisoft.Minesweeper
             OnStateChanged?.Invoke(State);
         }
 
+        public void Lock()
+        {
+            State = TileState.Locked;
+            OnStateChanged?.Invoke(State);
+        }
+        public void Unlock()
+        {
+            State = TileState.Hidden;
+            OnStateChanged?.Invoke(State);
+        }
+
+        public void SwitchLock()
+        {
+            if (State != TileState.Revealed)
+            {
+                if (State == TileState.Locked)
+                {
+                    Unlock();
+                }
+                else
+                {
+                    Lock();
+                }
+            }
+        }
         public void SwitchFlag()
         {
             FindObjectOfType<AudioManager>().Play("Square Open Two");

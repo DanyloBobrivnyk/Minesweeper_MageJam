@@ -55,7 +55,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5840025674489176444}
-  - component: {fileID: 5840025674489176447}
+  - component: {fileID: 8000922239242053402}
   m_Layer: 0
   m_Name: Game Manager Mission
   m_TagString: Untagged
@@ -81,7 +81,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5840025674489176447
+--- !u!114 &8000922239242053402
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -90,7 +90,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5840025674489176446}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a07977c3548045a488952ecb8ca53c37, type: 3}
+  m_Script: {fileID: 11500000, guid: 5e359f47973011e4895700befcbd18a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   levelCompleteUI: {fileID: 5840025675240965921}
@@ -100,7 +100,7 @@ MonoBehaviour:
   bombTilePrefab: {fileID: 3584066973208056085, guid: 36b11f2508c73cf4690c46b13841358b,
     type: 3}
   grid: {fileID: 5840025674345120159}
-  bombCount: 10
+  bombCount: 5
 --- !u!1001 &5840025673754509977
 PrefabInstance:
   m_ObjectHideFlags: 0

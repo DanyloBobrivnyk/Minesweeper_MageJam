@@ -475,7 +475,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - soundName: Explosion
     clip: {fileID: 8300000, guid: 801c0daf7f786b44aae69305ba673b2e, type: 3}
-    volume: 0.4
+    volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}

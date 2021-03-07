@@ -23,10 +23,14 @@ namespace Ilumisoft.Minesweeper
             switch (state)
             {
                 case TileState.Hidden:
+                    animator.SetTrigger("Unlock");
                     animator.SetTrigger("Unflag");
                     break;
                 case TileState.Flagged:
                     animator.SetTrigger("Flag");
+                    break;
+                case TileState.Locked:
+                    animator.SetTrigger("Lock");
                     break;
                 case TileState.Revealed:
                     animator.SetTrigger("Reveal");
